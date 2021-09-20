@@ -3,7 +3,7 @@
 [![Spotify](https://novatorem-ikeramat.vercel.app/api/spotify)](https://open.spotify.com/user/ikeramat)
 
 
-# If you wana contact me I'll be available in:
+# If you wanna contact me I'll be available in:
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/i_keramat)
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/i_keramat)
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/ikeramat)
